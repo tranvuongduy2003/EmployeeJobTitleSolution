@@ -1,0 +1,14 @@
+D:\.NET\EmployeeJob\EmployeeJobTitleLibrary\bin\Debug\net8.0\EmployeeJobTitleLibrary.deps.json
+D:\.NET\EmployeeJob\EmployeeJobTitleLibrary\bin\Debug\net8.0\EmployeeJobTitleLibrary.runtimeconfig.json
+D:\.NET\EmployeeJob\EmployeeJobTitleLibrary\bin\Debug\net8.0\EmployeeJobTitleLibrary.dll
+D:\.NET\EmployeeJob\EmployeeJobTitleLibrary\bin\Debug\net8.0\EmployeeJobTitleLibrary.pdb
+D:\.NET\EmployeeJob\EmployeeJobTitleLibrary\obj\Debug\net8.0\EmployeeJobTitleLibrary.csproj.AssemblyReference.cache
+D:\.NET\EmployeeJob\EmployeeJobTitleLibrary\obj\Debug\net8.0\EmployeeJobTitleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\EmployeeJob\EmployeeJobTitleLibrary\obj\Debug\net8.0\EmployeeJobTitleLibrary.AssemblyInfoInputs.cache
+D:\.NET\EmployeeJob\EmployeeJobTitleLibrary\obj\Debug\net8.0\EmployeeJobTitleLibrary.AssemblyInfo.cs
+D:\.NET\EmployeeJob\EmployeeJobTitleLibrary\obj\Debug\net8.0\EmployeeJobTitleLibrary.csproj.CoreCompileInputs.cache
+D:\.NET\EmployeeJob\EmployeeJobTitleLibrary\obj\Debug\net8.0\EmployeeJobTitleLibrary.dll
+D:\.NET\EmployeeJob\EmployeeJobTitleLibrary\obj\Debug\net8.0\refint\EmployeeJobTitleLibrary.dll
+D:\.NET\EmployeeJob\EmployeeJobTitleLibrary\obj\Debug\net8.0\EmployeeJobTitleLibrary.pdb
+D:\.NET\EmployeeJob\EmployeeJobTitleLibrary\obj\Debug\net8.0\EmployeeJobTitleLibrary.genruntimeconfig.cache
+D:\.NET\EmployeeJob\EmployeeJobTitleLibrary\obj\Debug\net8.0\ref\EmployeeJobTitleLibrary.dll
